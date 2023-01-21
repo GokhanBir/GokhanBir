@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GokhanBir
-- 👀 I’m interested in JS,Typescript,React,Laravel
-- 🌱 I’m currently learning Solidity
+-  Hi, I’m @GokhanBir
+-  I’m interested in JS,Typescript,React,Laravel
+-  I’m currently learning Solidity
 
 
 <!---
